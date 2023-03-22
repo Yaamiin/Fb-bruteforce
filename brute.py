@@ -58,7 +58,7 @@ def banner():
 	print("%s             ░                       "%(Z))
 	print("")
 	print("%s╔══════════════════════════════════════════╗"%(Z))
-	print("%s║%s  Author   : %sYᗩᗩᗰIIᑎ                  %s║"%(Z,B,M,Z))
+	print("%s║%s  Author   : %s⏤͟͞ ＥＫＳＯ                 %s║"%(Z,B,M,Z))
 	print("%s║%s  Github   : https://github.com/Yaamiin     %s║"%(Z,B,Z))
 	print("%s║%s  Telegram : https://t.me/NetworkNavigator  %s║"%(Z,B,Z))
 	print("%s║%s  Version  : %s1.0                          %s║"%(Z,B,H,Z))
