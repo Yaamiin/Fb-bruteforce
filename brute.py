@@ -2,7 +2,8 @@
 #-*-coding:utf-8-*-
 
 '''
-this is an open source program by Yaamiin/Ekso
+this is an open source program by Mr. Error (Azim-Vau)
+give credit before modifying <3 [>_]
 '''
 
 P = '\x1b[1;97m'
@@ -44,9 +45,17 @@ def xox(z):
 
 def banner():
 	os.system("clear")
-	print("")                  
-    print("%s     █▄▄ █▀█ █░█ ▀█▀ █▀▀ "%(M))
-    print("%s     █▄█ █▀▄ █▄█ ░█░ ██▄ "%(Z))
+	print("")
+	print("%s    ▄▄▄      ▒███████▒ ██▓ ███▄ ▄███▓"%(M))
+	print("%s   ▒████▄    ▒ ▒ ▒ ▄▀░▓██▒▓██▒▀█▀ ██▒"%(M))
+	print("%s   ▒██  ▀█▄  ░ ▒ ▄▀▒░ ▒██▒▓██    ▓██░"%(M))
+	print("%s   ░██▄▄▄▄██   ▄▀▒   ░░██░▒██    ▒██ "%(M))
+	print("%s    ▓█   ▓██▒▒███████▒░██░▒██▒   ░██▒"%(M))
+	print("%s    ▒▒   ▓▒█░░▒▒ ▓░▒░▒░▓  ░ ▒░   ░  ░"%(Z))
+	print("%s     ▒   ▒▒ ░░░▒ ▒ ░ ▒ ▒ ░░  ░      ░"%(Z))
+	print("%s     ░   ▒   ░ ░ ░ ░ ░ ▒ ░░      ░   "%(Z))
+	print("%s         ░  ░  ░ ░     ░         ░   "%(Z))
+	print("%s             ░                       "%(Z))
 	print("")
 	print("%s╔══════════════════════════════════════════╗"%(Z))
 	print("%s║%s  Author   : %sYᗩᗩᗰIIᑎ                  %s║"%(Z,B,M,Z))
